@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/wxap/RequestHandler.java=GBK
+encoding//src/com/wxap/ResponseHandler.java=GBK
+encoding//src/com/wxap/client/TenpayHttpClient.java=GBK
+encoding//src/com/wxap/util/HttpClientUtil.java=GBK
+encoding//src/com/wxap/util/MD5Util.java=GBK
+encoding//src/com/wxap/util/Sha1Util.java=GBK
+encoding//src/com/wxap/util/TenpayUtil.java=GBK
+encoding//src/com/wxap/util/XMLUtil.java=GBK
+encoding/<project>=GBK
